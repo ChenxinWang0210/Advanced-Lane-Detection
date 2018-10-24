@@ -14,8 +14,8 @@ The goals / steps of this project are the following:
 
 [//]: # (Image References)
 
-[image1]: ./output_images/calibration1_distorted.jpg"Originial"
-[image2]: ./output_images/calibration1_undistorted.jpg"Undistorted"
+[image1]: ./output_images/calibration1_distorted.jpg "Originial"
+[image2]: ./output_images/calibration1_undistorted.jpg "Undistorted"
 [image3]: ./output_images/TestImage_distorted_example.jpg "Test image originial"
 [image4]: ./output_images/TestImage_undistorted_example.jpg "Test image undistorted"
 [image5]: ./output_images/TestImage_binary_example.jpg "Binary Example"
